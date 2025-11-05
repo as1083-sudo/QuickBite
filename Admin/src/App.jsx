@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const URl = "http://localhost:4000"
+  const URl = "https://quick-bite-green.vercel.app/"
 
 
   return (
